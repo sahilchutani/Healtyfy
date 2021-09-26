@@ -14,6 +14,7 @@ Tracking your food and calorie intake can be important. Research shows that peop
 <h3 align=left>:two: Android Studio</h3>
 <h3 align=left>:three: OAuth - Google Authentication API</h3>
 <h3 align=left>:four: CalorieMama - Food Detection API using camera </h3>
+<h4 align=left>:four: SQLite DBMS </h4>
 <br><br>
 <h1 align=center>📱Screenshots📱</h1>
 
